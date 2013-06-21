@@ -1,0 +1,487 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lin",
+				"linpp	link_to (nested path plural)"
+			],
+			[
+				"l",
+				"linp	link_to (nested path)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "depot/app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 206,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "depot/app/views/products/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 599,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 72.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"local",
+				"Local History: Open"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"migrat",
+				"Migrations list"
+			],
+			[
+				"linkto",
+				"Snippet: link_to (path)"
+			],
+			[
+				"controller",
+				"Snippet: link_to (controller)"
+			],
+			[
+				"SSJSON",
+				"Set Syntax: JSON"
+			],
+			[
+				"Snippet: ",
+				"Snippet: XML Processing Instruction"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"SS BASH",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ss ini",
+				"Set Syntax: INI"
+			],
+			[
+				"isntal",
+				"Local History: Incremental Diff"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/kelvin/.sublime/history/home/kelvin/projects/agile/depot/app/views/layouts/2013-06-21_17.38.26.application.html.erb",
+		"/home/kelvin/.sublime/history/home/kelvin/projects/agile/depot/app/views/layouts/2013-06-21_17.28.25.application.html.erb",
+		"/home/kelvin/projects/agile/depot/app/assets/stylesheets/depot.css",
+		"/home/kelvin/projects/agile/depot/public/stylesheets/depot.css",
+		"/home/kelvin/projects/agile/depot/config/application.rb",
+		"/home/kelvin/projects/agile/depot/db/migrate/20130621200942_create_products.rb",
+		"/home/kelvin/projects/agile/depot/app/views/products/_form.html.erb",
+		"/home/kelvin/projects/agile/depot/db/seeds.rb",
+		"/home/kelvin/projects/agile/depot/app/views/layouts/application.html.erb",
+		"/home/kelvin/projects/agile/demo/config/application.rb",
+		"/home/kelvin/projects/agile/demo/app/views/examples/files.html.erb",
+		"/home/kelvin/projects/agile/demo/Gemfile",
+		"/home/kelvin/projects/agile/demo/app/controllers/say_controller.rb",
+		"/home/kelvin/projects/agile/demo/app/views/say/hello.html.erb",
+		"/home/kelvin/projects/agile/demo/app/views/say/goodbye.html.erb",
+		"/home/kelvin/projects/agile/demo/app/views/examples/main.html.erb",
+		"/home/kelvin/projects/agile/demo/app/controllers/examples_controller.rb",
+		"/home/kelvin/projects/agile/depot/Gemfile",
+		"/home/kelvin/.config/sublime-text-2/Packages/Rails/Template (ERB).tmPreferences",
+		"/home/kelvin/.config/sublime-text-2/Packages/Rails/180-rails-form_tag.sublime-snippet",
+		"/home/kelvin/.config/sublime-text-2/Packages/Rails/link_to-(nested-path).sublime-snippet",
+		"/home/kelvin/.config/sublime-text-2/Packages/User/erb.sublime-snippet",
+		"/home/kelvin/.config/sublime-text-2/Packages/Rails/HTML (Rails).tmLanguage",
+		"/home/kelvin/.config/sublime-text-2/Packages/Rails/HTML (Rails).tmLanguage.cache",
+		"/home/kelvin/.config/sublime-text-2/Packages/HTML/HTML.sublime-completions",
+		"/home/kelvin/projects/agile/demo/app/views/math/examples.html.erb",
+		"/home/kelvin/.config/sublime-text-2/Packages/Rails File Switcher/Default (Linux).sublime-keymap",
+		"/home/kelvin/projects/zerokweb.com/Gemfile",
+		"/home/kelvin/projects/zerokweb.com/config/routes.rb",
+		"/home/kelvin/projects/agile/dummy_app/Gemfile",
+		"/home/kelvin/projects/dummy_app/Gemfile",
+		"/home/kelvin/projects/kid3/README.md",
+		"/home/kelvin/projects/zerokweb.com/.rvmrc",
+		"/home/kelvin/.rvmrc",
+		"/home/kelvin/.config/openbox/rc.xml",
+		"/home/kelvin/.conkyrc",
+		"/home/kelvin/.bash_profile",
+		"/home/kelvin/.bashrc",
+		"/home/kelvin/projects/koins/.rvmrc",
+		"/home/kelvin/.config/terminator/config",
+		"/home/kelvin/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"gem",
+			"/>",
+			"terminator",
+			"projectname"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "depot/app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								175
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "depot/app/views/products/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 599,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								149,
+								149
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"indexer",
+				"depot/app/views/products/index.html.erb"
+			],
+			[
+				"applierb",
+				"depot/app/views/layouts/application.html.erb"
+			],
+			[
+				"db/seeds",
+				"depot/db/seeds.rb"
+			],
+			[
+				"_form",
+				"depot/app/views/products/_form.html.erb"
+			],
+			[
+				"appli",
+				"depot/config/application.rb"
+			],
+			[
+				"appl",
+				"demo/config/application.rb"
+			],
+			[
+				"examples",
+				"demo/app/controllers/examples_controller.rb"
+			],
+			[
+				"files.erb",
+				"demo/app/views/examples/files.html.erb"
+			],
+			[
+				"ex",
+				"demo/app/controllers/examples_controller.rb"
+			],
+			[
+				"main",
+				"demo/app/views/examples/main.html.erb"
+			],
+			[
+				"exam",
+				"demo/app/views/math/examples.html.erb"
+			],
+			[
+				"good",
+				"demo/app/views/say/goodbye.html.erb"
+			],
+			[
+				"hell",
+				"demo/app/views/say/hello.html.erb"
+			],
+			[
+				"demo/view/",
+				"demo/app/views/say/hello.html.erb"
+			],
+			[
+				"say",
+				"demo/app/controllers/say_controller.rb"
+			],
+			[
+				"gemfil",
+				"demo/Gemfile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"z",
+				"/home/kelvin/projects/zerokweb.com/zerokweb.sublime-project"
+			],
+			[
+				"",
+				"/home/kelvin/projects/zerokweb.com/zerokweb.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true
+}
