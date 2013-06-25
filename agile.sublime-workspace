@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"prod",
+				"product"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"ima",
+				"image_url"
+			],
+			[
 				"lin",
 				"linpp	link_to (nested path plural)"
 			],
@@ -15,40 +27,104 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "depot/app/views/layouts/application.html.erb",
-			"settings":
-			{
-				"buffer_size": 206,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "depot/app/views/products/index.html.erb",
-			"settings":
-			{
-				"buffer_size": 599,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 72.0,
+		"height": 272.0,
 		"selected_items":
 		[
+			[
+				"dele",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"delet",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pkg re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pk",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pkg",
+				"Package Control: Remove Package"
+			],
+			[
+				"githu",
+				"Github: Open File"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"",
+				"BeautifyRuby"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"reid",
+				"Snippet: redirect_to (action, id)"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
 			[
 				"install",
 				"Package Control: Install Package"
 			],
 			[
-				"local",
-				"Local History: Open"
+				"reinde",
+				"Indentation: Reindent Lines"
 			],
 			[
-				"rein",
+				"format",
+				"Format: Ruby"
+			],
+			[
+				"reins",
 				"Indentation: Reindent Lines"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"snipp:ima",
+				"Snippet: image_submit_tag"
+			],
+			[
+				"local",
+				"Local History: Open"
 			],
 			[
 				"migrat",
@@ -77,14 +153,6 @@
 			[
 				"instal",
 				"Package Control: Install Package"
-			],
-			[
-				"trai",
-				"Trailing Spaces: Delete Trailing Spaces"
-			],
-			[
-				"Package Control: ",
-				"Package Control: List Packages"
 			],
 			[
 				"SS BASH",
@@ -124,15 +192,33 @@
 	},
 	"file_history":
 	[
+		"/home/kelvin/projects/agile/depot/test/unit/product_test.rb",
+		"/home/kelvin/projects/agile/depot/app/models/product.rb",
+		"/home/kelvin/.config/sublime-text-2/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/home/kelvin/projects/agile/depot/test/functional/products_controller_test.rb",
+		"/home/kelvin/.config/openbox/rc.xml",
+		"/home/kelvin/projects/agile/depot/test/fixtures/products.yml",
+		"/home/kelvin/projects/agile/depot/config/database.yml",
+		"/home/kelvin/projects/agile/depot/test/unit/.gitkeep",
+		"/home/kelvin/.config/sublime-text-2/Packages/Rails Related Files/Default (Linux).sublime-keymap",
+		"/home/kelvin/.config/sublime-text-2/Packages/BeautifyRuby/BeautifyRuby.sublime-settings",
+		"/home/kelvin/.config/sublime-text-2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/home/kelvin/.config/sublime-text-2/Packages/Rails File Switcher/README.md",
+		"/home/kelvin/.config/sublime-text-2/Packages/Rails Related Files/README.md",
+		"/home/kelvin/.config/sublime-text-2/Packages/SyntaxChecker/SyntaxChecker.sublime-settings",
+		"/home/kelvin/projects/agile/depot/app/views/products/index.html.erb",
+		"/home/kelvin/projects/agile/depot/app/views/layouts/application.html.erb",
+		"/home/kelvin/projects/agile/demo/app/views/layouts/application.html.erb",
+		"/home/kelvin/projects/agile/depot/public/index.html",
+		"/home/kelvin/projects/agile/depot/app/assets/stylesheets/depot.css",
+		"/home/kelvin/projects/agile/depot/db/seeds.rb",
+		"/home/kelvin/projects/agile/dummy_app/db/seeds.rb",
 		"/home/kelvin/.sublime/history/home/kelvin/projects/agile/depot/app/views/layouts/2013-06-21_17.38.26.application.html.erb",
 		"/home/kelvin/.sublime/history/home/kelvin/projects/agile/depot/app/views/layouts/2013-06-21_17.28.25.application.html.erb",
-		"/home/kelvin/projects/agile/depot/app/assets/stylesheets/depot.css",
 		"/home/kelvin/projects/agile/depot/public/stylesheets/depot.css",
 		"/home/kelvin/projects/agile/depot/config/application.rb",
 		"/home/kelvin/projects/agile/depot/db/migrate/20130621200942_create_products.rb",
 		"/home/kelvin/projects/agile/depot/app/views/products/_form.html.erb",
-		"/home/kelvin/projects/agile/depot/db/seeds.rb",
-		"/home/kelvin/projects/agile/depot/app/views/layouts/application.html.erb",
 		"/home/kelvin/projects/agile/demo/config/application.rb",
 		"/home/kelvin/projects/agile/demo/app/views/examples/files.html.erb",
 		"/home/kelvin/projects/agile/demo/Gemfile",
@@ -158,7 +244,6 @@
 		"/home/kelvin/projects/kid3/README.md",
 		"/home/kelvin/projects/zerokweb.com/.rvmrc",
 		"/home/kelvin/.rvmrc",
-		"/home/kelvin/.config/openbox/rc.xml",
 		"/home/kelvin/.conkyrc",
 		"/home/kelvin/.bash_profile",
 		"/home/kelvin/.bashrc",
@@ -182,6 +267,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"should create",
+			"image",
 			"gem",
 			"/>",
 			"terminator",
@@ -205,148 +292,6 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "depot/app/views/layouts/application.html.erb",
-					"settings":
-					{
-						"buffer_size": 206,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								175,
-								175
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close"
-							],
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "depot/app/views/products/index.html.erb",
-					"settings":
-					{
-						"buffer_size": 599,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								149,
-								149
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close"
-							],
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -395,6 +340,42 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"databa",
+				"depot/config/database.yml"
+			],
+			[
+				"pt",
+				"depot/test/unit/product_test.rb"
+			],
+			[
+				"produtest",
+				"depot/test/unit/product_test.rb"
+			],
+			[
+				"prodct",
+				"depot/test/functional/products_controller_test.rb"
+			],
+			[
+				"product.rb",
+				"depot/app/models/product.rb"
+			],
+			[
+				"applicatioerb",
+				"demo/app/views/layouts/application.html.erb"
+			],
+			[
+				"index",
+				"depot/public/index.html"
+			],
+			[
+				"seed",
+				"depot/db/seeds.rb"
+			],
+			[
+				"seeds",
+				"dummy_app/db/seeds.rb"
+			],
 			[
 				"indexer",
 				"depot/app/views/products/index.html.erb"
